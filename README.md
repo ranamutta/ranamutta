@@ -1,5 +1,6 @@
-Merhaba! Ben bir Frontend ve React geliştiricisiyim. Disiplinli ve yeniliğe açık bir şekilde grup çalışmalarına aktif katılım sağlarım. Kendimi sürekli geliştirmeyi hedefleyen birisiyim.
-
+.🌍  Hello..I'm Rana MUTTA.
+.✉️  You can contact me at sarirana98@gmail.com.
+.🧠  I'm currently learning JAVA and REACT.
 
 <!---
 ranamutta/ranamutta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
