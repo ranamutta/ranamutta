@@ -1,7 +1,9 @@
-.🌍  Merhaba ben Rana..
-.🧠  Sürekli gelişmekte olan yazılım dünyasında JavaScript teknolojisine odaklanan ,Bootstrap kütüphanesi ile birlikte SASS ve SCSS gibi modern ön uç geliştirme araçlarını etkin bir şekilde kullanan bir öğrenciyim.
-İşbirliği gerektiren veya bireysel projelerde disiplin ve azimle süreci yönetirim.
-.✉️  sarirana98@gmail.com adresinden bana ulaşabilirsiniz...
+.🌍 Hello, I am Rana..
+
+.🧠 I am a student who focuses on JavaScript technology in the constantly developing software world and effectively uses modern front-end development tools such as SASS and SCSS along with the Bootstrap library. I manage the process with discipline and perseverance in collaborative or individual projects. 
+
+.✉️  You can reach me at sarirana98@gmail.com...
+
 
 
 <!---
